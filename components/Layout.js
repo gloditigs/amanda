@@ -68,7 +68,7 @@ export default function Layout({
                 href="/"
                 className={classes.toolbarTitle}
               >
-                Coolshop
+               Amanda The label
               </Link>
             </NextLink>
             <nav>
@@ -100,7 +100,7 @@ export default function Layout({
           <Box mt={5}>
             <Typography variant="body2" color="textSecondary" align="center">
               {'© '}
-              Coolshop 2021
+              Amanda The Label-Site By Glodi Tigs
               {'.'}
             </Typography>
           </Box>
